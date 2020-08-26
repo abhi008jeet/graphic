@@ -1,0 +1,3 @@
+﻿  mygraphic.cpp
+c:\users\abhi0\desktop\graphics\mygraphic\mygraphic\mygraphic.cpp(44): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+  mygraphic.vcxproj -> C:\Users\abhi0\Desktop\graphics\mygraphic\Debug\mygraphic.exe
